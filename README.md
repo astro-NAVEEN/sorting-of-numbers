@@ -1,3 +1,6 @@
+## NAME : NAVEEN V
+## REG NO : 212225060181
+
 # sorting-of-numbers
 ## Aim
 To write and execute an Assembly Language Program for sorting data in Ascending and  descending order using 8051 microcontroller on Keil software.
@@ -22,17 +25,13 @@ To write and execute an Assembly Language Program for sorting data in Ascending 
 
 ## Program (Ascending order)
 
-```asm
+<img width="422" height="826" alt="image" src="https://github.com/user-attachments/assets/c921ebbe-eed8-4dc3-8049-83efbf3bf03c" />
 
 
-
-
-```
 ## OUTPUT(Ascending order)
 
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/ad820062-50a1-42a2-9216-059d4e080e52" />
 
-
----
 
 ## Algorithm(Descending order)
 1. Initialize the register **R7** with count.  
@@ -48,13 +47,12 @@ To write and execute an Assembly Language Program for sorting data in Ascending 
 ---
 ## Program (Descending order)
 
-```asm
+<img width="551" height="792" alt="image" src="https://github.com/user-attachments/assets/6d507363-e019-4f5f-9b2c-38f2021873e7" />
 
 
-
-
-```
 ## OUTPUT(Descending order)
+
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/2e5f7642-4117-407b-8f08-116f21c58dd8" />
 
 
 
